@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SmcMarketApplication {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("백엔드 초기세팅");
         SpringApplication.run(SmcMarketApplication.class, args);
     }
 
